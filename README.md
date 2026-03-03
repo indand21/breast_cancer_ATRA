@@ -1,4 +1,4 @@
-# Enhanced QSP Model for ATRA-Tamoxifen Combination Therapy in ER+ Breast Cancer
+# QSP Model for ATRA-Tamoxifen Combination Therapy in ER+ Breast Cancer
 
 ## Overview
 
