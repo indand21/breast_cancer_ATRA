@@ -64,7 +64,7 @@ This repository contains an enhanced Quantitative Systems Pharmacology (QSP) mod
 python virtual_clinical_trial.py
 ```
 
-### Generating Enhanced Visualizations
+### Generating Visualizations
 ```bash
 python virtual_trial_plots.py
 ```
