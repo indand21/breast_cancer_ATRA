@@ -6,12 +6,12 @@ This repository contains an enhanced Quantitative Systems Pharmacology (QSP) mod
 
 ## Key Scientific Enhancements
 
-### 1. Realistic Biomarker Baselines
+### 1. Biomarker Baselines
 - **EMT Biomarkers**: SNAI1, ZEB1, TWIST1, CDH1, VIM with literature-based variability (CV 25-60%)
 - **Drug Targets**: Pin1, EGFR, ERK_p, RARα, ERα with clinically observed distributions
 - **Resistance Markers**: TGFβ pathway components with patient-specific variability
 
-### 2. Enhanced Clinical Outcomes
+### 2. Clinical Outcomes
 - **5-Year Survival Rates**: 
   - Control: 70.0%
   - Tamoxifen: 85.8% 
@@ -19,7 +19,7 @@ This repository contains an enhanced Quantitative Systems Pharmacology (QSP) mod
 - **Survival Benefit**: +1.8% (Original) → +9.2% (Enhanced) = **8x improvement**
 - **Pin1-ATRA Targeting**: Contributes +4.5% survival benefit through EMT reversal
 
-### 3. Realistic Clinical Parameters
+### 3. Clinical Parameters
 - **Response Rates**: Based on published ER+ breast cancer trials
 - **PFS/OS**: Weibull distributions with stage and age adjustments
 - **Toxicity Profiles**: Literature-based grade distributions for combination therapy
@@ -38,7 +38,7 @@ This repository contains an enhanced Quantitative Systems Pharmacology (QSP) mod
    - Calculates treatment responses based on biomarker profiles
    - Simulates PFS/OS with realistic hazard functions
 
-3. **Enhanced Visualization** (`VirtualTrialPlotter`)
+3. **Visualization** (`VirtualTrialPlotter`)
    - EMT biomarker correlation analysis
    - Drug synergy quantification (Bliss independence model)
    - Patient stratification by EMT risk
